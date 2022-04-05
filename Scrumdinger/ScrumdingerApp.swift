@@ -9,6 +9,8 @@
 
 // COMMENT 2
 
+// COMMENT 3
+
 import SwiftUI
 
 @main
